@@ -1,4 +1,4 @@
-package code16;
+
 
 import java.util.Scanner;
 
