@@ -31,7 +31,6 @@ public class Code4 {
         for(int i=0; i<m;i++){
             System.out.println(name[i] + ":" + number[i]);
         }
-    
     }
 
 }

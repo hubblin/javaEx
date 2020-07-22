@@ -21,7 +21,7 @@ public class Code8 {
 
         final Scanner kb = new Scanner(System.in);
         while (true) {
-            System.out.println("$ ");
+            System.out.print("$ ");
             final String command = kb.next();
             if (command.equals("read")) {
                 final String fileName = kb.nextLine();
